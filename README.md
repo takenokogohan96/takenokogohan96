@@ -1,8 +1,13 @@
-### Hi there 👋
+## 📊 Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=takenokogohan96&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=takenokogohan96" />
-</a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=takenokogohan96&count_private=true&show_icons=true&theme=github_dark)
+
+## ✨ Skill
+- Python a little
+- GAS a little
+- Software testing（Especially game-related）
+
+## 📋 Certification
+- ITEE SC / DB / AP
+- JSTQB FL
+- …20+ others
